@@ -1,0 +1,83 @@
+Student Name: Cho, Insung
+Student ID: 6006
+Institution: Tianjin International School
+
+School Year 2024 to 2025 Fact Record
+Current Grade: 12
+Recognition: High Honor Roll
+GPA Weighting Rules: Honors courses receive 0.33 extra grade points. Advanced Placement (AP) courses receive 0.66 extra grade points. Dual Enrollment (DE) courses through partner US universities receive 0.66 extra grade points, with a maximum possible grade of A.
+Semester GPA: 4.21
+Cumulative GPA: 4.26
+School Days in Year: 180
+Secondary Principal: Jacob Way
+Document Print Date: 20 Jan 2025
+
+Course Enrollment and Performance for 2024 to 2025 Semester 1:
+AP Calculus BC: Teacher Jonathan Barta. 1 excused absence. 2 unexcused absences. Grade: A.
+AP Chemistry: Teacher John Lundy. 3 excused absences. 4 unexcused absences. Grade: A minus.
+AP Physics C Mechanics: Teacher Jonathan Barta. 5 excused absences. 6 unexcused absences. Grade: A.
+English III/IV British Focus: Teacher Esther Riordan. 7 excused absences. 8 unexcused absences. Grade: A.
+HS Chinese Intermediate: Teacher Emily Zhao. 9 excused absences. 10 unexcused absences. Grade: A minus.
+HS Physical Education: Teacher Sung Hwe Kim. 11 excused absences. 12 unexcused absences. Grade: A.
+Honors Robotics I: Teacher Betty Mesfin Ayitenfsu. 13 excused absences. 14 unexcused absences. Grade: A.
+Worldview Survey and Development: Teacher Barry Wolfer. 15 excused absences. 16 unexcused absences. Grade: A plus.
+
+Grade Scale for 2024 to 2025:
+A plus: 98 to 100.
+A: 93 to 97.
+A minus: 90 to 92.
+B plus: 88 to 89.
+B: 83 to 87.
+B minus: 80 to 82.
+C plus: 78 to 79.
+C: 73 to 77.
+C minus: 70 to 72.
+D plus: 68 to 69.
+D: 63 to 67.
+D minus: 60 to 62.
+F: 17 to 59.
+P: Pass.
+I: Incomplete.
+
+School Year 2023 to 2024 Fact Record (Mid-Year/January Report)
+Grade: 11
+Recognition: High Honor Roll
+Cumulative GPA: 4.24
+Secondary Principal: Jacob Way
+Document Print Date: 23 Jan 2024
+
+Course Enrollment and Performance for 2023 to 2024 Semester 1:
+AP Computer Science A: Teacher Matias Celi. 1 absence. Grade: A plus.
+AP Economics: Teacher Jacob Way. 18 absences. Grade: A minus.
+AP Statistics: Teacher Elizabeth Gilbert. 19 absences. Grade: A minus.
+English III/IV US Focus: Teacher Esther Riordan. 20 absences. Grade: A.
+HS Chinese Novice: Teacher Ada He. 21 absences. Grade: A.
+HS Choir: Teacher Rick Emerson. 22 absences. Grade: A plus.
+Honors Philosophy: Teacher Barry Wolfer. 23 absences. Grade: A.
+
+Grade Scale for 2023 to 2024 (January Report):
+Similar to 2024 to 2025 scale except for F grade range which is 24 to 59.
+
+School Year 2023 to 2024 Fact Record (Final/June Report)
+Grade: 11
+Recognition: High Honor Roll
+Cumulative GPA: 4.29
+Secondary Principal: Jacob Way
+Document Print Date: 19 Jun 2024
+
+Course Enrollment and Performance for 2023 to 2024 Full Year:
+AP Computer Science A: Teacher Matias Celi. 25 absences. Semester 1 Grade: A plus. Semester 2 Grade: A plus.
+AP Economics: Teacher Jacob Way. 26 absences. Semester 1 Grade: A minus. Semester 2 Grade: A.
+AP Statistics: Teacher Elizabeth Gilbert. 27 absences. Semester 1 Grade: A minus. Semester 2 Grade: A.
+English III/IV US Focus: Teacher Esther Riordan. 28 absences. Semester 1 Grade: A. Semester 2 Grade: A.
+HS Chinese Novice: Teacher Ada He. 29 absences. Semester 1 Grade: A. Semester 2 Grade: A.
+HS Choir: Teacher Rick Emerson. 30 absences. Semester 1 Grade: A plus. Semester 2 Grade: A.
+Honors Philosophy: Teacher Barry Wolfer. 31 absences. Semester 1 Grade: A. Semester 2 Grade: A.
+
+Grade Scale for 2023 to 2024 (June Report):
+Similar to 2024 to 2025 scale except for F grade range which is 32 to 59.
+
+Application Timeline and Metadata:
+Application Date: May 29. Note: Applied late on a rolling basis.
+Interview Offer Date: June 2.
+Source File Name: message.txt

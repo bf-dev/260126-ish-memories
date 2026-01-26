@@ -1,0 +1,29 @@
+Fact Record for Insung
+
+Insung analyzed a quote from Beowulf describing Grendel as a demon and descendant of Cain who was spawned in slime and banished by God for the crime of Abel's death. Insung noted that Grendel's connection to Cain positions him outside the moral and social order of humans. In the battle between Beowulf and Grendel, Beowulf fought without weapons to demonstrate human strength while Grendel's attempt to flee highlighted a lack of honor and courage. Insung concluded that the line between beast and human in Beowulf is defined by morality, social order, and honor.
+
+In a statistics context, Insung recorded that a p-value represents the probability that the null hypothesis is true. A lower p-value provides evidence to reject the null hypothesis. The null hypothesis is rejected if it is less than alpha and not rejected if it is greater than alpha.
+
+Insung compiled data for hours of daylight throughout the year. The values recorded were January 1 at 9.1 hours, February 1 at 10.0 hours, March 1 at 11.2 hours, April 1 at 12.7 hours, May 1 at 14.1 hours, June 1 at 15.1 hours, July 1 at 15.3 hours, August 1 at 14.5 hours, September 1 at 13.2 hours, October 1 at 11.7 hours, November 1 at 10.3 hours, and December 1 at 9.3 hours. Insung noted that daylight variations are caused by the Earth's axial tilt and orbit with a cycle of approximately 365 days.
+
+Insung used a sine wave formula to calculate daylight hours where y equals 3 sin (2 pi (x minus 80) divided by 365) plus 12.1. For June 21, which is the 172nd day of the year, the formula resulted in approximately 15.0997 hours. Insung compared this to data from Wolfram Alpha for Sioux City, Iowa, on June 21, 2010, which showed 15.3 hours. The difference between the formula and actual data was 0.2 hours or 12 minutes.
+
+On August 15, 2024, Insung wrote about desires, stating that men and women share basic inborn desires for survival, food, and reproduction, while most other desires are shaped by society and culture.
+
+On August 20, 2024, Insung defined a hero as an individual who serves others regardless of monetary compensation. Insung identifies his mother as a hero because she volunteers for the homeless and refugees.
+
+On August 22, 2024, Insung noted that his speaking style remains consistent due to habit, but his written language and vocabulary evolve through reading books, articles, and online content.
+
+On August 23, 2024, Insung discussed fear, distinguishing between physical fear which signals danger and emotional fear which must be faced to build courage and resilience.
+
+On August 27, 2024, Insung described his life journey, which included leaving his homeland to move to a new country to seek new experiences and personal growth.
+
+On August 29, 2024, Insung recorded that his current iPhone 13 battery lasts only 20 minutes after a full charge. He expressed a need for an iPhone 16 because mobile payments are necessary for his daily life in China.
+
+On September 3, 2024, Insung analyzed Beowulf's motivation for helping Hrothgar. He cited the heroic code, a desire for respect, and the fact that Hrothgar had previously helped Beowulf's father.
+
+On September 6, 2024, Insung examined whether Grendel is truly evil, suggesting that the story might only show one side of the character and that Grendel may have unknown reasons for his actions.
+
+Insung maintained a list of reflection topics including ambition on September 1, influencing crowds on September 4, challenging authority on September 5, justice on September 11, online learning on September 13, guilt on September 18, human nature on October 6, subjectivity and objectivity on October 11, brainwashing on October 16, mortality on October 18, writing steps on October 23, being an animal on October 25, newspaper evaluation on October 27, and sleep requirements for 15 to 25 year olds on November 22.
+
+In an analysis of The Crucible, Insung wrote that power and authority are used as tools of manipulation by characters like Judge Danforth and Reverend Hale. He noted that Elizabeth Proctor's sense of justice is portrayed as harsh, while Reverend Hale suggests that lying can sometimes be justified, highlighting the difficulty of defining true justice.

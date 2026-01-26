@@ -1,0 +1,26 @@
+Subject name: Insung.
+Childhood activity: Insung played with computers instead of toys during his childhood.
+Childhood equipment: Insung used a family-owned old off-white computer tower.
+Initial interaction: Insung observed that pressing keys produced characters on the monitor, which he perceived as magic.
+Age 10 event: Insung discovered a Visual Basic manual on his uncle’s bookshelf.
+Visual Basic manual description: The manual had a musty smell and crude diagrams.
+First programming milestone: Insung copied code from the manual to successfully display Hello World on a screen.
+Personal interest: Insung identifies as someone who loves solving problems.
+High school location: Insung attended high school in Korea.
+High school activities: Insung joined a programming club.
+Leadership role: Insung served as the leader of the high school programming club.
+Teaching experience: As club leader, Insung taught beginner students how to program and guided them through projects.
+Relocation date: Insung and his family moved to Tianjin, China, one and a half years ago.
+Educational setting in China: Insung enrolled in an English-speaking school.
+Language barrier: Upon arrival, Insung could read English but struggled with real-world speaking and understanding his teacher.
+Translator role: Insung volunteered as an English translator on his second day at the school in China.
+Language development method: Insung treated linguistic misunderstandings as puzzles to build vocabulary and learn cultural cues.
+Media assistant role: Insung worked as a media assistant at his school.
+Media assistant responsibilities: Insung designed tools and explored user experience (UX) to streamline school event information.
+Professional experience: Insung currently has experience from an IT internship.
+IT internship achievements: Insung created platforms and automated media coverage.
+Robotics team: Insung is a member of a two-member robotics team.
+Robotics responsibilities: Insung performs concept design, studies competition rules, physically builds robots, and programs robots.
+Model United Nations participation: Insung participated in Model United Nations (MUN).
+MUN focus areas: Insung engaged in debates regarding cybersecurity, digital ethics, encryption, and the societal responsibilities of technology.
+Educational philosophy: Insung seeks to understand both the how and the why of technology, focusing on the intentions behind programming.

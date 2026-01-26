@@ -1,0 +1,59 @@
+Course code is COMP1110.
+Course title is Computing and Data Science in Everyday Life.
+The subject of the presentation is an introduction to the course.
+The instructor for the course is Insung.
+The date on the title slide is 2026-01-20.
+The document defines computer science based on a quote from GPT as the scientific study of computation, algorithms, and information.
+Computer science focuses on theoretical foundations, design, and application of computational systems and software.
+Computer science explores the how and why behind computers and problem solving through logic, math, and engineering.
+In simpler terms, computer science involves making computers do things, understanding how they do them, and the study of theory and practice.
+The document defines data science based on a quote from GPT as an interdisciplinary field that develops and applies methods for collecting, cleaning, organizing, analyzing, and communicating data.
+The goal of data science is to generate insight, support decisions, and build predictive or explanatory models.
+Data science integrates statistics, machine learning, computing, and domain knowledge to turn raw data into reliable, actionable information and products.
+In simpler terms, data science is turning raw data into useful stories, decisions, and predictions.
+Data science is becoming more important due to massive growth in data volume from sources like social media and IoT devices.
+Data science is important for AI integration because a huge amount of data is needed for training good AI models.
+Data science provides a competitive advantage as organizations using data-driven strategies earn more.
+The document presents a formula where efficient algorithms, accurate models, powerful hardware, and smart people multiplied by no data results in no meaningful output.
+Social media feeds utilize AI and machine learning for addictive content recommendation.
+Social media feeds use data science for identifying trends and audience segmentation.
+Social media feeds use computer vision for face recognition.
+The document includes a screenshot of a mobile interface titled Photo Review showing four people smiling, with one face highlighted by a square box for face tagging.
+Social media platforms use databases and distributed computing to handle billions of users without downtime.
+Human-computer interaction in social media focuses on good UI and UX, including addictive infinite-scroll features.
+Video games utilize computer graphics and computer animation for virtual reality and augmented reality.
+Computer vision is used in video games for motion capture.
+The document includes a four-panel image illustrating motion capture, showing a person in a black suit with sensors and the corresponding digital skeletal rig.
+Human-computer interaction in games involves input devices.
+Networking, databases, and distributed computing in games allow for multiplayer functionality and wireless controllers.
+AI and machine learning in games are used for non-player character (NPC) and enemy logic.
+Algorithms in games are used for procedural generation, such as the infinite worlds in Minecraft.
+Maps and navigation use graph algorithms for routing.
+Data science is used in maps for real-time traffic monitoring.
+The document includes an image of a Google Map of the Boston and Cambridge area showing real-time traffic with green, orange, and red colored roads.
+Networking is used for GPS and Wi-Fi positioning in navigation apps.
+Natural language processing and AI are used for speech synthesis in voice navigation.
+Computer vision is used for Google Street View 360 degree panoramas.
+Fitness and healthcare utilize bioinformatics and data science for DNA analysis.
+AI and machine learning in healthcare are used for disease prediction.
+Computer vision is used for X-ray and CT scans and general biomedical imaging.
+The document includes two side-by-side CT scan images of a human chest, with the right image showing color-coded internal organs.
+Embedded systems are used in smartwatches for monitoring heart rates.
+Signal processing is used to filter sensor noises in health devices.
+Cybersecurity is essential in healthcare because patient data are sensitive.
+The document states that computing and data science can be the key to both success and failure.
+AlphaFold 2 is presented as a success story for protein structure prediction with AI.
+The problem addressed by AlphaFold 2 is predicting the 3D structure of a protein from its 1D amino acid sequence.
+Traditional wet lab methods for protein structure prediction were slow and could take years for a single protein.
+Google's AlphaFold 2 used deep learning to predict millions of protein structures.
+AlphaFold 2 was awarded the Nobel Prize in Chemistry in 2024.
+The document includes an illustration of a red and green amino acid chain folding from a 1D sequence into a 3D structure.
+The Ariane 5 rocket explosion in 1996 is presented as a failure case.
+The European rocket deviated from its intended trajectory during launch and exploded.
+The financial loss from the Ariane 5 explosion was greater than 370 million USD.
+The cause of the explosion was an integer overflow in the program code.
+A 64-bit floating point number was converted to a 16-bit signed integer.
+A 16-bit signed integer has a maximum value of 32,767.
+As the rocket velocity increased, the value exceeded 32,767, causing all calculations to fail.
+The document notes that software engineering, specifically testing and code review, are important to prevent such failures.
+The document contains two images of the Ariane 5 rocket, one showing it on the launchpad and another showing it exploding in a cloud of fire and smoke.

@@ -1,0 +1,36 @@
+Subject name: Insung Cho.
+Recipient: Mrs. Cotton.
+Document context: Senior Exit Presentation.
+Document title: Letter of Introduction.
+Document date: January 23, 2025.
+School: Tianjin International School (TIS).
+School location: China.
+Educational status: Senior preparing for graduation.
+Relocation history: Moved to China and joined TIS in the 11th grade.
+Educational background: Most prior educational experience was in South Korea.
+Language context: TIS is the first school Insung attended where instruction is entirely in English.
+Extracurricular activities: Designing robots for competitions and participating in Model UN debating ethical dilemmas.
+Specific senior class: Worldview Survey and Development.
+Teacher mentioned: Mr. Wolfer, who guided Insung for two years at TIS.
+Worldview classification: Materialist and empirically grounded.
+Worldview values: Reason, scientific inquiry, and human agency.
+Worldview rejections: Supernatural explanations, divine intervention, intelligent design, the existence of a soul, and theological concepts of sin or sacred texts.
+Belief on cosmic origins: The universe began with the Big Bang approximately 13.8 billion years ago.
+Belief on Earth's formation: Astrophysical and geological processes.
+Belief on biological origins: Life emerged through natural selection and biological evolution as described by Charles Darwin.
+Definition of humanity: Nature’s overthinkers with hyperactive prefrontal cortices characterized by the capacity for creativity and collaboration rather than a soul.
+Analogy for human cooperation: A beehive where the collective thrives through collaboration.
+Definition of meaning: Meaning is forged through human connection, small acts, and contributing to the chain of knowledge rather than being found in sacred texts.
+Cultural concept mentioned: Ikigai (a reason to get up in the morning).
+Philosophy of ethics: Ethics are a shared project evolved through collective negotiation, empathy, and social evolution.
+Ethical priority: Reducing suffering, such as prioritizing a child’s vaccination over a billionaire’s yacht.
+Belief on death: Death is final; consciousness ceases when the brain stops.
+Concept of legacy: Legacy is defined as ripples of impact and echoes of actions, such as mentoring or scientific curiosity passed from teacher to student.
+Social and environmental actions: Recycling, mentoring, and protesting injustice.
+Primary academic interest: Computer science.
+Origin of technical interest: Insung wrote his first line of code at age 10.
+Future career goal: To major in computer science and focus on solving human-centered challenges through technology.
+Future educational plans: Applying to several universities located throughout Asia.
+Professional focus: Innovation that prioritizes inclusivity and addresses gaps for those overlooked in tech conversations.
+Current system datetime: January 19, 2026.
+File name: message.txt.

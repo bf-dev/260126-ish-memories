@@ -1,0 +1,13 @@
+Fact Record for Insung
+
+The subject of this record is Insung. The record is dated January 20, 2026. The current date and time recorded is January 20, 2026, at 10:13:59 AM. The information is sourced from a file named message.txt.
+
+Insung is associated with the Western Psychiatric Centre, specifically the General Psychiatry department, located at GAC7 on the 3rd Floor. The code DTRC is associated with this record.
+
+Insung has been prescribed three specific medications. 
+
+The first medication is Duloxetine (HCl) Delayed Release in capsule form. The strength of this medication is 60mg. The dosage instructions for Insung are to take 1 capsule daily.
+
+The second medication is Lorazepam in tablet form. The strength of the tablet is 1mg. The dosage instructions for Insung are to take half a tablet at bedtime when necessary.
+
+The third medication is Mirtazapine Orodispersible Tablet. The strength of this tablet is 15mg. The dosage instructions for Insung are to take 1 tablet at bedtime.

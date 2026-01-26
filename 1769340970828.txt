@@ -1,0 +1,13 @@
+Fact Record for COMP1110 Announcement
+
+The COMP1110 Teaching Team issued an announcement to the students of COMP1110, including Insung, regarding the weekly timetable for the course titled Computing and Data Science in Everyday Life. The message was contained in a file named message.txt and had zero replies at the time of recording. The current system date is January 25, 2026.
+
+The correct weekly lecture schedule for the course consists of two sessions per week. The first session is every Tuesday from 3:00 pm to 3:50 pm. The second session is every Thursday from 5:00 pm to 6:50 pm. Both sessions are located at CPD-LG.01 Grand Hall.
+
+This schedule is the same as the one presented during the online course selection period in August and September. However, a technical issue has caused the Thursday sessions to disappear from the course selection system during the Add/Drop period. The Add/Drop period mentioned began on September 19, 2026.
+
+The teaching team confirmed that Thursday lectures will still be held as scheduled unless otherwise announced. Insung and other students are instructed to keep the Thursday 5:00 pm to 6:50 pm timeslot free for the duration of the semester. The teaching team is working to resolve the system display issue.
+
+The first lecture of the semester is scheduled for Tuesday, September 20, from 3:00 pm to 3:50 pm in the Grand Hall. As a precaution, the Thursday session in the first week, dated September 22, is officially cancelled. 
+
+Arrangements for lectures in the weeks following the first week will be announced later. Insung is advised to monitor the COMP1110 Moodle page for all updates and to attend the first lecture on September 20 for further details. The teaching team apologized for any confusion caused by these scheduling issues.

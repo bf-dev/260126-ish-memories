@@ -1,0 +1,25 @@
+The document contains study materials and analysis compiled by Insung regarding philosophy, linguistics, literature, and statistics.
+
+Insung notes that Descartes’ principle of doubt involves questioning the reliability of the senses, the distinction between dreams and reality, the accuracy of mathematical knowledge, and the certainty of existence due to the potential for deception by an evil demon. Insung identifies Descartes’ first certain truth as the phrase I think therefore I am, which establishes that a thinking being cannot doubt its own existence.
+
+Insung defines epistemology as the branch of philosophy studying the nature, sources, and limits of human knowledge. The study of epistemology is valued by Insung for helping individuals understand themselves and others, improving critical thinking, and exploring the relationship between ideas and reality.
+
+Insung provides definitions for three literary devices. Alliteration is the repetition of the same consonant sounds. A metaphor is an implied comparison between two unlike things. Chiasmus is a grammatical structure where the first clause is reversed in the second, sometimes repeating the same words.
+
+Insung analyzes John F. Kennedy’s Inaugural Address, identifying the use of anaphora, pathos, ethos, logos, and a strong tone. Vocabulary associated with this analysis includes the words anew, belaboring, oppressed, heed, pledge, beachhead, heir, and inaugural.
+
+Insung reviews several reading comprehension and logic scenarios. One scenario describes Booker T. Whatley’s determined advocacy for pick-your-own produce on farms, which succeeded despite initial critic concerns. Another scenario mentions the Igun Eronmwon guild in Benin City, Nigeria, which has adhered to bronze and brass casting traditions since the thirteenth century but now uses air-conditioning motors for forges.
+
+Insung examines a passage from Jack London’s 1903 novel The Call of the Wild, noting that the dog Buck holds John Thornton in higher regard than any other human and only tolerates others, like Hans and Pete, because of their connection to Thornton. Insung also notes a claim by W.E.B. Du Bois in his 1903 book The Souls of Black Folk, where Du Bois expresses an intuitive sense of cultural recognition when hearing Black folk songs, stating they were of him and of mine.
+
+Insung notes that travel writer Linda Watanabe McFerrin considers background research to be as engaging as in-person exploration. Regarding French monarchs like Hugh Capet and Henry I, Insung identifies that their historical trajectories were shaped by factors used to buttress their right to hold the throne. In a 1902 memoir titled Indian Boyhood, Ohiyesa describes Santee Dakota women evaluating the individual characters of maple trees during syrup harvesting.
+
+Insung references a data table concerning the credited film output of Indigenous actors and filmmakers between 1908 and 1934. James Young Deer is credited with 33 acting roles, 35 directing roles, and 10 writing roles between 1909 and 1924. Dark Cloud is credited with 35 acting roles and 1 writing role between 1910 and 1920. Edwin Carewe is credited with 47 acting roles, 58 directing roles, 20 producing roles, and 4 writing roles between 1912 and 1934. Lillian St. Cyr, known as Red Wing, is credited with 66 acting roles between 1908 and 1921. Insung observes that these counts are bare minimums because many films and records from this era have been lost.
+
+Insung performs statistical analysis using Chi-square tests. In a test of color distribution, the calculated Chi-square statistic is 6.689 with a p-value of 0.153. Insung concludes there is no statistical evidence to reject the null hypothesis that the observed distribution matches the manufacturer's claim.
+
+Insung distinguishes between two statistical designs. Design I tests for independence by sampling from an entire population to find associations between smoking and fitness. Design II tests for homogeneity by sampling specific groups, such as smokers and nonsmokers, separately.
+
+Insung analyzes the relationship between activity levels and happiness. Using a Chi-square test for independence, Insung finds a Chi-square statistic of 14.5404 and a p-value of 0.0057. Insung rejects the null hypothesis and concludes there is a significant relationship between happiness levels and whether a person is busy or idle.
+
+The current date recorded in the context of these documents is January 19, 2025.

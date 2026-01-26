@@ -1,0 +1,15 @@
+The subject of the provided content is Insung Cho. The content details his application and interview process for the Bachelor of Science in Innovation and Technology, abbreviated as BSc(I&T), at The University of Hong Kong School of Innovation.
+
+Professor So describes the BSc(I&T) program as one focused on fostering a mindset of problem-solving and innovation by combining creativity and experience with a foundation in science, engineering, design, and business. Graduates of the program can pursue further academic research such as a Master's or PhD and can become engineers. However, the program is not designed for chartered engineering accreditation, for which a traditional engineering degree like Civil Engineering is advised.
+
+Insung received an interview invitation from Candy at the HKU School of Innovation. The interview was scheduled for Thursday, June 5, 2025, at 11:50 am Hong Kong Time. The record notes the interview started at 11:50 am but was delayed by 10 minutes. Other potential interview timeslots listed before Insung's slot include 9:15 to 9:45, 9:45 to 10:15, 10:15 to 10:45, and 10:45 to 11:15.
+
+The interview was conducted via Zoom using the meeting ID 914 0071 7759 and password 527741. The interview link provided was https://hku.zoom.us/j/91400717759?pwd= ***
+
+Insung prepared presentation slides for the interview. Slide one states that Insung Cho lived prominently in South Korea and transitioned to Tianjin, China. He describes himself as an innovator and deep thinker. The slide includes an image of Insung, a young man in a dark suit, smiling and talking to an older man in a light-colored patterned short-sleeved shirt. In the background, a projection screen displays a banner titled Music to Make Music and a slide titled Senior Exit Presentation featuring the name Insung Cho and the date 3 June 2025.
+
+Slide two indicates that Insung is passionate about making real-life projects through programming.
+
+Slide three details Insung's involvement in Beatus, which is the programming club at Chung Nam Samsung Academy. Beatus is described as a hands-on IT club where students collaborate on projects involving web development, applications, artificial intelligence, design, and security. In 2022, Insung served as a Developer of the Web Team. During the first semester of 2023, Insung served as the Leader of the Club. In this role, he taught the basics of JavaScript and the ExpressJS framework.
+
+The source material includes a text file named message.txt containing the interview details and slide transcriptions.
