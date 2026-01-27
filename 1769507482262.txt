@@ -1,0 +1,78 @@
+The name of the file is Lec01-Course overview.pdf.
+The primary instructor for the course is Insung, also referred to as RB Luo or 羅銳邦.
+Insung is associated with the School of Computing and Data Science at the University of Hong Kong.
+The course title is Introduction to Data Science and Engineering - Course Overview, with the course code COMP2501 Introduction to data science Section 2B, 2025.
+Some slides in the presentation were retrofitted by Michael Wu.
+Some materials are courtesy of Rafael A. Irizarry and are modified from the original version.
+The content is licensed under a Creative Commons BY-NC-SA license.
+The presentation begins with a visual concept of the progression from data to wisdom, showing the sequence: Data, Information, Knowledge, Insight, Wisdom, and Conspiracy Theory. The Conspiracy Theory panel depicts a pink unicorn with wings and a horn connecting data points.
+Data science is defined as an interdisciplinary field that uses statistical methods, algorithms, and computational tools to extract meaningful insights from structured and unstructured data.
+It combines mathematics, programming, and domain expertise to analyze patterns, build predictive models, and support decision-making across business, science, and technology.
+The term data scientist was first used by Jeff Hammerbacher and DJ Patil as a new job title to describe individuals with critical skills in mathematics, statistics, computer science, machine learning, and business knowledge.
+A screenshot of a ChatGPT 5 interface shows a prompt dated January 16, 2026, asking for a 50-word definition of data science.
+Insung addresses criticisms regarding whether data science is a real science, including the phrases garbage in, garbage out and the quote by Ronald H. Coase stating if you torture the data long enough, it will confess.
+Other criticisms include the idea that data scientists can prove anything by subsetting data and building new features, or that they only build observational studies that show correlation but not underlying causes.
+To make data science more scientific, Insung emphasizes upholding scientific values such as transparency and reproducibility, and using correct methodology by designing experiments rigorously and acknowledging limitations.
+An article titled Is Data Science A Real Science by Ludovic Benistant from December 15, 2016, is referenced with a link to towardsdatascience.com.
+Data scientist is identified as a top job, citing Glassdoor's 2016 50 Best Jobs in America list where it was ranked number 1 with a median base salary of 116,840 dollars, a job satisfaction rating of 4.1 out of 5, and 1,736 job openings.
+Glassdoor rankings from 2016 to 2022 show Data Scientist held the number 1 spot from 2016 to 2019, ranked number 3 in 2020, number 2 in 2021, and number 3 in 2022.
+In 2022, Enterprise Architect was ranked number 1 and Full Stack Engineer was ranked number 2.
+A U.S. News 2026 ranking of the 100 Best Jobs lists Data Scientist at number 8 with a median salary of 112,590 dollars and 82,500 projected jobs, requiring a bachelor degree.
+The top 5 jobs in that list are Nurse Practitioner (1), Financial Manager (2), IT Manager (3), Information Security Analyst (4), and Physician Assistant (5).
+A chat log with gpt-5.1 dated January 16, 2026, shows Insung asking if data scientist is a good job in 2026. The AI answers that it is still strong and lucrative, particularly with AI specialization, but notes that skills are evolving. The final attempt to chat results in an HTTP error 429.
+The salary distribution for data scientists in the United States in 2024 is listed as follows: 10th percentile at 63,650 dollars, 25th percentile at 82,630 dollars, median at 112,590 dollars (equivalent to 631,629 Hong Kong dollars after PPP adjustment), 75th percentile at 155,810 dollars, and 90th percentile at 194,410 dollars.
+In the Hong Kong market, the base pay for data scientists ranges from 25,000 to 45,000 Hong Kong dollars per month, with an average of 33,000 per month, totaling between 300,000 and 540,000 annually.
+The book How to Lie with Statistics by Darrell Huff is highlighted as relevant.
+A capable data scientist is advised to read a lot, think critically, and use the capability of computing.
+Expertise areas in data science are categorized into Backend (Data engineer focusing on hardware, efficient computing, and data storage), Frontend (Data analysts for wrangling, exploration, and inference; Machine learning engineers for prediction algorithms), and Data science software developers who create tools.
+Insung emphasizes that domain knowledge is what makes data science important and necessary, showing a Venn diagram where data science is the intersection of computer science, math and statistics, business skills, and domain knowledge.
+Bioinformatics is compared to data science, where bioinformatics is the intersection of biology, statistics, and computer science.
+Domain expertise allows a data scientist to understand the big picture, understand business goals, ask the right questions, communicate with non-technical peers, and determine relevant success criteria for models.
+Quotes from Carl Sagan regarding science as a way of thinking and George E.P. Box stating all models are wrong but some are useful are included in the teaching philosophy.
+The course aims to help students understand the full data science pipeline using R programming, collect and store data from unstructured sources, visualize data, and perform rigorous analysis using statistical and machine learning approaches.
+Course materials are found on Moodle under the title COMP2501 Introduction to data science [Section 2B, 2025].
+Lectures take place on Tuesdays from 5:00 pm to 6:50 pm and Thursdays from 12:00 noon to 12:50 pm at venue MWT2 (Ming Wah Complex Theater 2).
+Lectures are mostly face-to-face, but video recordings will be provided for March 5 and April 2 instead of in-person classes.
+Insung explicitly states that no Zoom streaming or recording of live lectures is provided and encourages attendance for extras not found on the slides.
+Insung's office is located at CB422 and his email is rbluo@cs.hku.hk. His website is http://luo-lab.hk.
+There are three teaching assistants: CHEN Lei (TA1, office HW307, email lchen@cs.hku.hk, consultation Tuesday 2pm to 4pm), WANG Tianyi (TA2, office HW307, email wang-tianyi@connect.hku.hk, consultation Wednesday 3pm to 5pm), and LAI Qilong (TA3, office HW307, email laiql@connect.hku.hk, consultation Wednesday 3pm to 5pm).
+The textbook for the course is Introduction to Data Science - Data Analysis and Prediction Algorithms with R by Prof. Rafael A. Irizarry, which is freely available at http://rafalab.dfci.harvard.edu/dsbook/.
+The teaching philosophy refers to the 2018 paper A Guide to Teaching Data Science by Stephanie C. Hicks and Rafael A. Irizarry. The course focuses on Type A (Analysis) data scientists rather than Type B (Building) data scientists.
+The course uses R programming and the tidyverse toolchain, noting that R's visualization capability is ahead of Python.
+The syllabus schedule for 2026 is as follows:
+January 20: Course overview.
+January 22: R basics, R markdown, other R technics.
+January 27 and 29: Tidyverse and importing data. Assignment 1 is released on January 29.
+February 3, 5, and 10: Data visualization and ggplot.
+February 12: Lab 1 (bring your own computer).
+February 17 and 19: Chinese New Year holiday.
+February 24: Reshaping data, table joining, web scraping. Assignment 2 is released.
+February 26: String processing. Assignment 1 deadline is February 26.
+March 3: Text mining.
+March 5: Emerging topics in data science (online recording, no face-to-face).
+March 10 and 12: Reading Week holiday.
+March 17: Mid-term exam.
+March 19: Emerging topics in Data Science.
+March 24: Probability.
+March 26 and 31: Statistical methods. Assignment 3 is released on March 31, and Assignment 2 deadline is March 31.
+April 2: Bayes theorem (online recording, no face-to-face). Project proposal submission starts.
+April 7: Easter holiday.
+April 9: In-class project proposal write-up and consultation lab.
+April 14: Regression.
+April 16: Lab 2 and project proposal submission deadline.
+April 21: Machine learning and methods for large datasets.
+April 23, 28, and 30: Student presentations. Assignment 3 deadline is April 30.
+The final exam date is to be determined (TBD), and the presentation video submission deadline is also TBD.
+Course assessments include three programming assignments (24%), one individual project (26%), one mid-term exam (20%), and one final exam (30%).
+Assignments are due at 11:59 pm on specified dates with no grace period.
+The individual project requires working on a real data science problem. The proposal is due between April 2 and April 16. A 10-minute presentation video is due on the day of the final exam. Students can request in-class presentations for a 10-20% bonus.
+The mid-term exam is a 2-hour Moodle quiz on March 17 with no make-up exam. If absent for medical reasons, the final exam weight increases to 50%.
+The final exam focuses on workable ideas rather than programming correctness.
+The late policy allows for 5 slip days total for the semester, with a maximum of 2 days per assignment. One minute late counts as a full slip day.
+Regarding Generative AI, students are encouraged to use Large Language Models (LLMs) such as GPTs and DeepSeek for study assistance but are not to use them for assignments. They are discouraged from using image, video, or voice generation tools.
+Students are advised to understand every line of code generated by LLMs and be aware of hallucinations.
+Recommended LLM platforms include DeepSeek, ChatGPT through HKU, OpenAI through Microsoft Azure, POE, and Grok 4 by xAI.
+General expectations for students include attending every class, reading references to outperform others, completing homework on time, and participating by raising hands or interrupting the instructor with questions.
+The title page picture is a visualization of a chaotic attractor based on the equations: x subscript n plus 1 equals sine of b times y subscript n plus c times sine of b times x subscript n, and y subscript n plus 1 equals sine of a times x subscript n plus d times cosine of a times y subscript n.
+Specific values for the title page attractor are a: 2.6077306639003335, b: 0.2389972414501491, c: 0.8232123369164812, d: 1.192728038668042.
+The source for the chaotic attractor visualization tool is https://www.software-artist.com/chaotic-attractor/.
