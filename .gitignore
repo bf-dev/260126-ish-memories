@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# env / secrets
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+*.p12
+*.pfx
+*.mobileprovision
+serviceAccount*.json
+
+# general
+*.log
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+dist/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
